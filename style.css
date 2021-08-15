@@ -2200,7 +2200,7 @@ box-shadow:  0 25px 10px 0 #aaa9a9;
 }
 .area4 {
 	width: 360px;
-	height: 680px;
+	height: 730px;
 	margin-top: 20px;
 	margin-bottom: 40px;
 	box-shadow: 0 0 5px #bababa;
@@ -2229,7 +2229,6 @@ box-shadow:  0 25px 10px 0 #aaa9a9;
 	font-size:16px;
 	font-family: serif;
 	margin-bottom: 200px;
-	margin-left:10px;
 }
 .form-div{
 	width: 360px;
